@@ -100,7 +100,7 @@ Place this file in the project directory.
 ## Usage
 
 ```bash
-python your_script.py
+python app.py
 ```
 
 Example CLI session:

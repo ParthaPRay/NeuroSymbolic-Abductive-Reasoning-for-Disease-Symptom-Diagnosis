@@ -14,7 +14,7 @@ This repository implements a **neurosymbolic AI NLP pipeline** that integrates d
 ---
 ## The work uses dataset as prepared in below github
 
-     [https://github.com/ParthaPRay/Disease-Symptom-Knowledge-Database_Flattening](https://github.com/ParthaPRay/Disease-Symptom-Knowledge-Database_Flattening)
+  * Dataset [https://github.com/ParthaPRay/Disease-Symptom-Knowledge-Database_Flattening]([https://www.swi-prolog.org/Download.html](https://github.com/ParthaPRay/Disease-Symptom-Knowledge-Database_Flattening)  
 ---
 
 ## Key Features

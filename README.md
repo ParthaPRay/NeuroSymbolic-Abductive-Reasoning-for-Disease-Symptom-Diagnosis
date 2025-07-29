@@ -12,6 +12,10 @@ This repository implements a **neurosymbolic AI NLP pipeline** that integrates d
 > Bridging neural and symbolic AI enables interpretable, data-driven clinical support that is accessible, extensible, and compatible with biomedical ontologies. This repository aims to facilitate reproducible research at the intersection of NLP, explainable AI, and medical reasoning.
 
 ---
+## The work uses dataset as prepared in below github
+
+     [https://github.com/ParthaPRay/Disease-Symptom-Knowledge-Database_Flattening](https://github.com/ParthaPRay/Disease-Symptom-Knowledge-Database_Flattening)
+---
 
 ## Key Features
 
